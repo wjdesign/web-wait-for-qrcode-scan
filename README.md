@@ -1,0 +1,1 @@
+# [文章說明](https://wayneblog.ga/2023-01-31/web-wait-for-qrcode-scan/)  
